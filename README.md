@@ -1,2 +1,6 @@
 # scRNAseqObjectCreation
-Pipeline for creating a Seurat object from a scRNAseq expression matrix.
+Scripts to create a Seurat object and analyze it.
+
+### objectCreation.R
+Uses the expression matrix outputed in the [scRNAseqProcessPipeline repository](https://github.com/TaisVieira/scRNAseqProcessPipeline) to create a Seurat object. 
+
